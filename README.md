@@ -4,7 +4,7 @@ A backend chatbot project developed using **Java + Spring Boot** that simulates 
 
 ---
 
-## Features
+## Features   (  https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/api_test.png  )
 
 - REST API using Spring Boot
 - POST `/webhook` endpoint
@@ -21,7 +21,7 @@ A backend chatbot project developed using **Java + Spring Boot** that simulates 
 - Java 17
 - Spring Boot
 - Maven
-- REST API
+- REST API   
 - JSON
 
 ---
