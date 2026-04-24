@@ -45,12 +45,13 @@ whatsapp-chatbot-backend/
 ```bash
 mvn spring-boot:run
 
-## Screenshots
+
+## screenshots
 
 ### 1. API Response Test
 
-![API Test Screenshot]([images/api_test.png](https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/api_test.png))
+![API Test Screenshot]([images/api_test.png]( https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/api_test.png )
 
 ### 2. Project Folder Structure
 
-![Project Structure Screenshot](images/project_structure.png](https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/project_structure.png)
+![Project Structure Screenshot](images/project_structure.png]( https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/project_structure.png )
