@@ -26,7 +26,7 @@ A backend chatbot project developed using **Java + Spring Boot** that simulates 
 
 ---
 
-## Project Structure   (  images/project_structure.png )
+## Project Structure   (  [images/project_structure.png](https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/project_structure.png) )
 
 whatsapp-chatbot-backend/
 ├── src/main/java/com/example/chatbot/
