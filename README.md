@@ -3,9 +3,12 @@
 A backend chatbot project developed using **Java + Spring Boot** that simulates WhatsApp style incoming webhook messages and automated replies.
 
 ---
+## ScreenShots 
+API TEST  : (  https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/api_test.png  )
+Project Structure:  ( https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/project_structure.png )
 
-## Features   (  https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/api_test.png  )
 
+## Features   
 - REST API using Spring Boot
 - POST `/webhook` endpoint
 - JSON request and response handling
@@ -26,8 +29,7 @@ A backend chatbot project developed using **Java + Spring Boot** that simulates 
 
 ---
 
-## Project Structure  ( https://github.com/kumarnitinnkr/whatsapp-chatbot-backend/blob/main/images/project_structure.png )
-
+## Project Structure  
 whatsapp-chatbot-backend/
 ├── src/main/java/com/example/chatbot/
 │ ├── controller/
